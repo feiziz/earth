@@ -1,2 +1,2 @@
 # earth
-Sample
+Sample APP
